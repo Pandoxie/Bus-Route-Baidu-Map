@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <BusList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<liner Destination="金桥">
-		<Tag>日班8:00进公司24条线</Tag>
+		<Tag>日班8:00进公司24条线 </Tag>
 		<Data>
 			<Route>
 				<Name>6:25 沪闵路(江川路)－－6:30 沪闵路(剑川路)－－6:35 沪闵路(颛桥地铁站)－－6:45 沪闵路(银都路)－－6:50沪闵路(莘建路)－－6:55 沪闵路(水清路)－－7:00 沪闵路(外环线公交车站)－－7:05 沪闵路(莲花路)－－停车场</Name>
